@@ -139,7 +139,10 @@ public class TestTwoSum {
 
 * HashMap-based solution is **optimal for Two Sum** in terms of time.
 * Nested loops are simpler but inefficient for large arrays.
-* This README can be used as a **portfolio piece** or posted on platforms like GitHub, Medium, Dev.to, or LeetCode Discuss.
-
 ```
+
+Comparison
+Solution	Time Complexity	Space Complexity
+HashMap approach	O(n)	O(n)
+Nested loop approach	O(n²)	O(1)
 
