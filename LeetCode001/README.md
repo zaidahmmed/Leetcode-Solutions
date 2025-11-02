@@ -141,6 +141,8 @@ public class TestTwoSum {
 * Nested loops are simpler but inefficient for large arrays.
 ```
 
+---
+
 ## Comparison
 | Solution             | Time Complexity | Space Complexity |
 | -------------------- | --------------- | ---------------- |
@@ -148,3 +150,4 @@ public class TestTwoSum {
 | Nested loop approach | O(n²)           | O(1)             |
 
 
+---
